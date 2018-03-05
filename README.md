@@ -9,7 +9,11 @@ Node.js and React.js Boilerplate
 + Sass
 + CSS Modules
 + React Hot Replacement
++ pdfkit
 
-## License
 
-MIT
+
+
+to run the application run cmd:
+
+npm start
